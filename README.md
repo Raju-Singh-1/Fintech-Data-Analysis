@@ -21,3 +21,5 @@ Dataset Overview (4 Tables)
 4.	Evaluate loan risk and defaults
 5.	Build a customer 360 view
 
+
+<img width="1069" height="596" alt="Screenshot 2026-05-08 210805" src="https://github.com/user-attachments/assets/48c01abf-71e3-4cd5-bb3b-6836e81c553a" />
